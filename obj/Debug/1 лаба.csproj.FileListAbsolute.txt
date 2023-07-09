@@ -1,0 +1,10 @@
+D:\2 курс\2 сем\ООП\1 лаба\bin\Debug\1 лаба.exe.config
+D:\2 курс\2 сем\ООП\1 лаба\bin\Debug\1 лаба.exe
+D:\2 курс\2 сем\ООП\1 лаба\bin\Debug\1 лаба.pdb
+D:\2 курс\2 сем\ООП\1 лаба\obj\Debug\1 лаба.csproj.AssemblyReference.cache
+D:\2 курс\2 сем\ООП\1 лаба\obj\Debug\_1_лаба.Form1.resources
+D:\2 курс\2 сем\ООП\1 лаба\obj\Debug\_1_лаба.Properties.Resources.resources
+D:\2 курс\2 сем\ООП\1 лаба\obj\Debug\1 лаба.csproj.GenerateResource.cache
+D:\2 курс\2 сем\ООП\1 лаба\obj\Debug\1 лаба.csproj.CoreCompileInputs.cache
+D:\2 курс\2 сем\ООП\1 лаба\obj\Debug\1 лаба.exe
+D:\2 курс\2 сем\ООП\1 лаба\obj\Debug\1 лаба.pdb
